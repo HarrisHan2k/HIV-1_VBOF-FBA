@@ -1,6 +1,6 @@
 # HIV-1_VBOF-FBA
 ## VBOFKit
-These are the Python functions used for the HIV-1 generation (Also could be used for generating VBOF of viruses).
+These are the Python functions used for the HIV-1 VBOF generation (Also could be used for generating the VBOFs of other viruses).
 #### Requirements
 * Viranet: https://github.com/seanaller/viranet
 * Cobrapy: https://opencobra.github.io/cobrapy/
